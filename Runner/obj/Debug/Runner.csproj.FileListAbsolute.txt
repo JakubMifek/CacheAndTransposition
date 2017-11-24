@@ -1,0 +1,6 @@
+C:\Users\jakub\documents\visual studio 2015\Projects\Transposition\Runner\bin\Debug\Runner.exe.config
+C:\Users\jakub\documents\visual studio 2015\Projects\Transposition\Runner\bin\Debug\Runner.exe
+C:\Users\jakub\documents\visual studio 2015\Projects\Transposition\Runner\bin\Debug\Runner.pdb
+C:\Users\jakub\documents\visual studio 2015\Projects\Transposition\Runner\obj\Debug\Runner.csprojResolveAssemblyReference.cache
+C:\Users\jakub\documents\visual studio 2015\Projects\Transposition\Runner\obj\Debug\Runner.exe
+C:\Users\jakub\documents\visual studio 2015\Projects\Transposition\Runner\obj\Debug\Runner.pdb

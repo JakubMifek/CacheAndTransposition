@@ -1,0 +1,1668 @@
+Elements: 4900
+Accesses: 4830
+Misses: 530
+Missed-bytes: 33920
+
+
+Elements: 4900
+Accesses: 4830
+Misses: 307
+Missed-bytes: 19648
+
+
+Elements: 4900
+Accesses: 4830
+Misses: 307
+Missed-bytes: 19648
+
+
+Elements: 4900
+Accesses: 4830
+Misses: 39
+Missed-bytes: 19968
+
+
+Elements: 4900
+Accesses: 4830
+Misses: 5
+Missed-bytes: 20480
+
+
+Elements: 4900
+Accesses: 4830
+Misses: 923
+Missed-bytes: 59072
+
+
+Elements: 4900
+Accesses: 4830
+Misses: 307
+Missed-bytes: 19648
+
+
+Elements: 4900
+Accesses: 4830
+Misses: 307
+Missed-bytes: 19648
+
+
+Elements: 4900
+Accesses: 4830
+Misses: 39
+Missed-bytes: 19968
+
+
+Elements: 4900
+Accesses: 4830
+Misses: 5
+Missed-bytes: 20480
+
+
+Elements: 5625
+Accesses: 5550
+Misses: 619
+Missed-bytes: 39616
+
+
+Elements: 5625
+Accesses: 5550
+Misses: 352
+Missed-bytes: 22528
+
+
+Elements: 5625
+Accesses: 5550
+Misses: 352
+Missed-bytes: 22528
+
+
+Elements: 5625
+Accesses: 5550
+Misses: 44
+Missed-bytes: 22528
+
+
+Elements: 5625
+Accesses: 5550
+Misses: 6
+Missed-bytes: 24576
+
+
+Elements: 5625
+Accesses: 5550
+Misses: 1330
+Missed-bytes: 85120
+
+
+Elements: 5625
+Accesses: 5550
+Misses: 352
+Missed-bytes: 22528
+
+
+Elements: 5625
+Accesses: 5550
+Misses: 352
+Missed-bytes: 22528
+
+
+Elements: 5625
+Accesses: 5550
+Misses: 44
+Missed-bytes: 22528
+
+
+Elements: 5625
+Accesses: 5550
+Misses: 6
+Missed-bytes: 24576
+
+
+Elements: 6561
+Accesses: 6480
+Misses: 747
+Missed-bytes: 47808
+
+
+Elements: 6561
+Accesses: 6480
+Misses: 410
+Missed-bytes: 26240
+
+
+Elements: 6561
+Accesses: 6480
+Misses: 410
+Missed-bytes: 26240
+
+
+Elements: 6561
+Accesses: 6480
+Misses: 52
+Missed-bytes: 26624
+
+
+Elements: 6561
+Accesses: 6480
+Misses: 7
+Missed-bytes: 28672
+
+
+Elements: 6561
+Accesses: 6480
+Misses: 1854
+Missed-bytes: 118656
+
+
+Elements: 6561
+Accesses: 6480
+Misses: 410
+Missed-bytes: 26240
+
+
+Elements: 6561
+Accesses: 6480
+Misses: 410
+Missed-bytes: 26240
+
+
+Elements: 6561
+Accesses: 6480
+Misses: 52
+Missed-bytes: 26624
+
+
+Elements: 6561
+Accesses: 6480
+Misses: 7
+Missed-bytes: 28672
+
+
+Elements: 7744
+Accesses: 7656
+Misses: 903
+Missed-bytes: 57792
+
+
+Elements: 7744
+Accesses: 7656
+Misses: 484
+Missed-bytes: 30976
+
+
+Elements: 7744
+Accesses: 7656
+Misses: 484
+Missed-bytes: 30976
+
+
+Elements: 7744
+Accesses: 7656
+Misses: 61
+Missed-bytes: 31232
+
+
+Elements: 7744
+Accesses: 7656
+Misses: 8
+Missed-bytes: 32768
+
+
+Elements: 7744
+Accesses: 7656
+Misses: 2440
+Missed-bytes: 156160
+
+
+Elements: 7744
+Accesses: 7656
+Misses: 484
+Missed-bytes: 30976
+
+
+Elements: 7744
+Accesses: 7656
+Misses: 484
+Missed-bytes: 30976
+
+
+Elements: 7744
+Accesses: 7656
+Misses: 61
+Missed-bytes: 31232
+
+
+Elements: 7744
+Accesses: 7656
+Misses: 8
+Missed-bytes: 32768
+
+
+Elements: 9025
+Accesses: 8930
+Misses: 1110
+Missed-bytes: 71040
+
+
+Elements: 9025
+Accesses: 8930
+Misses: 564
+Missed-bytes: 36096
+
+
+Elements: 9025
+Accesses: 8930
+Misses: 564
+Missed-bytes: 36096
+
+
+Elements: 9025
+Accesses: 8930
+Misses: 71
+Missed-bytes: 36352
+
+
+Elements: 9025
+Accesses: 8930
+Misses: 9
+Missed-bytes: 36864
+
+
+Elements: 9025
+Accesses: 8930
+Misses: 3101
+Missed-bytes: 198464
+
+
+Elements: 9025
+Accesses: 8930
+Misses: 564
+Missed-bytes: 36096
+
+
+Elements: 9025
+Accesses: 8930
+Misses: 564
+Missed-bytes: 36096
+
+
+Elements: 9025
+Accesses: 8930
+Misses: 71
+Missed-bytes: 36352
+
+
+Elements: 9025
+Accesses: 8930
+Misses: 9
+Missed-bytes: 36864
+
+
+Elements: 10404
+Accesses: 10302
+Misses: 1250
+Missed-bytes: 80000
+
+
+Elements: 10404
+Accesses: 10302
+Misses: 651
+Missed-bytes: 41664
+
+
+Elements: 10404
+Accesses: 10302
+Misses: 651
+Missed-bytes: 41664
+
+
+Elements: 10404
+Accesses: 10302
+Misses: 82
+Missed-bytes: 41984
+
+
+Elements: 10404
+Accesses: 10302
+Misses: 11
+Missed-bytes: 45056
+
+
+Elements: 10404
+Accesses: 10302
+Misses: 3884
+Missed-bytes: 248576
+
+
+Elements: 10404
+Accesses: 10302
+Misses: 651
+Missed-bytes: 41664
+
+
+Elements: 10404
+Accesses: 10302
+Misses: 651
+Missed-bytes: 41664
+
+
+Elements: 10404
+Accesses: 10302
+Misses: 82
+Missed-bytes: 41984
+
+
+Elements: 10404
+Accesses: 10302
+Misses: 11
+Missed-bytes: 45056
+
+
+Elements: 12100
+Accesses: 11990
+Misses: 1408
+Missed-bytes: 90112
+
+
+Elements: 12100
+Accesses: 11990
+Misses: 757
+Missed-bytes: 48448
+
+
+Elements: 12100
+Accesses: 11990
+Misses: 757
+Missed-bytes: 48448
+
+
+Elements: 12100
+Accesses: 11990
+Misses: 95
+Missed-bytes: 48640
+
+
+Elements: 12100
+Accesses: 11990
+Misses: 12
+Missed-bytes: 49152
+
+
+Elements: 12100
+Accesses: 11990
+Misses: 4787
+Missed-bytes: 306368
+
+
+Elements: 12100
+Accesses: 11990
+Misses: 757
+Missed-bytes: 48448
+
+
+Elements: 12100
+Accesses: 11990
+Misses: 757
+Missed-bytes: 48448
+
+
+Elements: 12100
+Accesses: 11990
+Misses: 95
+Missed-bytes: 48640
+
+
+Elements: 12100
+Accesses: 11990
+Misses: 12
+Missed-bytes: 49152
+
+
+Elements: 14161
+Accesses: 14042
+Misses: 1642
+Missed-bytes: 105088
+
+
+Elements: 14161
+Accesses: 14042
+Misses: 885
+Missed-bytes: 56640
+
+
+Elements: 14161
+Accesses: 14042
+Misses: 885
+Missed-bytes: 56640
+
+
+Elements: 14161
+Accesses: 14042
+Misses: 111
+Missed-bytes: 56832
+
+
+Elements: 14161
+Accesses: 14042
+Misses: 14
+Missed-bytes: 57344
+
+
+Elements: 14161
+Accesses: 14042
+Misses: 5862
+Missed-bytes: 375168
+
+
+Elements: 14161
+Accesses: 14042
+Misses: 885
+Missed-bytes: 56640
+
+
+Elements: 14161
+Accesses: 14042
+Misses: 885
+Missed-bytes: 56640
+
+
+Elements: 14161
+Accesses: 14042
+Misses: 111
+Missed-bytes: 56832
+
+
+Elements: 14161
+Accesses: 14042
+Misses: 14
+Missed-bytes: 57344
+
+
+Elements: 16384
+Accesses: 16256
+Misses: 1024
+Missed-bytes: 65536
+
+
+Elements: 16384
+Accesses: 16256
+Misses: 1024
+Missed-bytes: 65536
+
+
+Elements: 16384
+Accesses: 16256
+Misses: 1024
+Missed-bytes: 65536
+
+
+Elements: 16384
+Accesses: 16256
+Misses: 128
+Missed-bytes: 65536
+
+
+Elements: 16384
+Accesses: 16256
+Misses: 16
+Missed-bytes: 65536
+
+
+Elements: 16384
+Accesses: 16256
+Misses: 6962
+Missed-bytes: 445568
+
+
+Elements: 16384
+Accesses: 16256
+Misses: 1024
+Missed-bytes: 65536
+
+
+Elements: 16384
+Accesses: 16256
+Misses: 1024
+Missed-bytes: 65536
+
+
+Elements: 16384
+Accesses: 16256
+Misses: 128
+Missed-bytes: 65536
+
+
+Elements: 16384
+Accesses: 16256
+Misses: 16
+Missed-bytes: 65536
+
+
+Elements: 19321
+Accesses: 19182
+Misses: 2202
+Missed-bytes: 140928
+
+
+Elements: 19321
+Accesses: 19182
+Misses: 1271
+Missed-bytes: 81344
+
+
+Elements: 19321
+Accesses: 19182
+Misses: 1208
+Missed-bytes: 77312
+
+
+Elements: 19321
+Accesses: 19182
+Misses: 151
+Missed-bytes: 77312
+
+
+Elements: 19321
+Accesses: 19182
+Misses: 19
+Missed-bytes: 77824
+
+
+Elements: 19321
+Accesses: 19182
+Misses: 8633
+Missed-bytes: 552512
+
+
+Elements: 19321
+Accesses: 19182
+Misses: 1252
+Missed-bytes: 80128
+
+
+Elements: 19321
+Accesses: 19182
+Misses: 1208
+Missed-bytes: 77312
+
+
+Elements: 19321
+Accesses: 19182
+Misses: 151
+Missed-bytes: 77312
+
+
+Elements: 19321
+Accesses: 19182
+Misses: 19
+Missed-bytes: 77824
+
+
+Elements: 22500
+Accesses: 22350
+Misses: 2588
+Missed-bytes: 165632
+
+
+Elements: 22500
+Accesses: 22350
+Misses: 1513
+Missed-bytes: 96832
+
+
+Elements: 22500
+Accesses: 22350
+Misses: 1407
+Missed-bytes: 90048
+
+
+Elements: 22500
+Accesses: 22350
+Misses: 176
+Missed-bytes: 90112
+
+
+Elements: 22500
+Accesses: 22350
+Misses: 22
+Missed-bytes: 90112
+
+
+Elements: 22500
+Accesses: 22350
+Misses: 10328
+Missed-bytes: 660992
+
+
+Elements: 22500
+Accesses: 22350
+Misses: 1472
+Missed-bytes: 94208
+
+
+Elements: 22500
+Accesses: 22350
+Misses: 1407
+Missed-bytes: 90048
+
+
+Elements: 22500
+Accesses: 22350
+Misses: 176
+Missed-bytes: 90112
+
+
+Elements: 22500
+Accesses: 22350
+Misses: 22
+Missed-bytes: 90112
+
+
+Elements: 26244
+Accesses: 26082
+Misses: 3088
+Missed-bytes: 197632
+
+
+Elements: 26244
+Accesses: 26082
+Misses: 1774
+Missed-bytes: 113536
+
+
+Elements: 26244
+Accesses: 26082
+Misses: 1641
+Missed-bytes: 105024
+
+
+Elements: 26244
+Accesses: 26082
+Misses: 206
+Missed-bytes: 105472
+
+
+Elements: 26244
+Accesses: 26082
+Misses: 26
+Missed-bytes: 106496
+
+
+Elements: 26244
+Accesses: 26082
+Misses: 12288
+Missed-bytes: 786432
+
+
+Elements: 26244
+Accesses: 26082
+Misses: 1725
+Missed-bytes: 110400
+
+
+Elements: 26244
+Accesses: 26082
+Misses: 1641
+Missed-bytes: 105024
+
+
+Elements: 26244
+Accesses: 26082
+Misses: 206
+Missed-bytes: 105472
+
+
+Elements: 26244
+Accesses: 26082
+Misses: 26
+Missed-bytes: 106496
+
+
+Elements: 30625
+Accesses: 30450
+Misses: 3689
+Missed-bytes: 236096
+
+
+Elements: 30625
+Accesses: 30450
+Misses: 2108
+Missed-bytes: 134912
+
+
+Elements: 30625
+Accesses: 30450
+Misses: 1914
+Missed-bytes: 122496
+
+
+Elements: 30625
+Accesses: 30450
+Misses: 240
+Missed-bytes: 122880
+
+
+Elements: 30625
+Accesses: 30450
+Misses: 30
+Missed-bytes: 122880
+
+
+Elements: 30625
+Accesses: 30450
+Misses: 14576
+Missed-bytes: 932864
+
+
+Elements: 30625
+Accesses: 30450
+Misses: 2021
+Missed-bytes: 129344
+
+
+Elements: 30625
+Accesses: 30450
+Misses: 1914
+Missed-bytes: 122496
+
+
+Elements: 30625
+Accesses: 30450
+Misses: 240
+Missed-bytes: 122880
+
+
+Elements: 30625
+Accesses: 30450
+Misses: 30
+Missed-bytes: 122880
+
+
+Elements: 35721
+Accesses: 35532
+Misses: 4509
+Missed-bytes: 288576
+
+
+Elements: 35721
+Accesses: 35532
+Misses: 2497
+Missed-bytes: 159808
+
+
+Elements: 35721
+Accesses: 35532
+Misses: 2233
+Missed-bytes: 142912
+
+
+Elements: 35721
+Accesses: 35532
+Misses: 280
+Missed-bytes: 143360
+
+
+Elements: 35721
+Accesses: 35532
+Misses: 35
+Missed-bytes: 143360
+
+
+Elements: 35721
+Accesses: 35532
+Misses: 17367
+Missed-bytes: 1111488
+
+
+Elements: 35721
+Accesses: 35532
+Misses: 2362
+Missed-bytes: 151168
+
+
+Elements: 35721
+Accesses: 35532
+Misses: 2233
+Missed-bytes: 142912
+
+
+Elements: 35721
+Accesses: 35532
+Misses: 280
+Missed-bytes: 143360
+
+
+Elements: 35721
+Accesses: 35532
+Misses: 35
+Missed-bytes: 143360
+
+
+Elements: 41616
+Accesses: 41412
+Misses: 5136
+Missed-bytes: 328704
+
+
+Elements: 41616
+Accesses: 41412
+Misses: 2936
+Missed-bytes: 187904
+
+
+Elements: 41616
+Accesses: 41412
+Misses: 2601
+Missed-bytes: 166464
+
+
+Elements: 41616
+Accesses: 41412
+Misses: 326
+Missed-bytes: 166912
+
+
+Elements: 41616
+Accesses: 41412
+Misses: 41
+Missed-bytes: 167936
+
+
+Elements: 41616
+Accesses: 41412
+Misses: 20460
+Missed-bytes: 1309440
+
+
+Elements: 41616
+Accesses: 41412
+Misses: 2721
+Missed-bytes: 174144
+
+
+Elements: 41616
+Accesses: 41412
+Misses: 2601
+Missed-bytes: 166464
+
+
+Elements: 41616
+Accesses: 41412
+Misses: 326
+Missed-bytes: 166912
+
+
+Elements: 41616
+Accesses: 41412
+Misses: 41
+Missed-bytes: 167936
+
+
+Elements: 48400
+Accesses: 48180
+Misses: 5796
+Missed-bytes: 370944
+
+
+Elements: 48400
+Accesses: 48180
+Misses: 3438
+Missed-bytes: 220032
+
+
+Elements: 48400
+Accesses: 48180
+Misses: 3025
+Missed-bytes: 193600
+
+
+Elements: 48400
+Accesses: 48180
+Misses: 379
+Missed-bytes: 194048
+
+
+Elements: 48400
+Accesses: 48180
+Misses: 48
+Missed-bytes: 196608
+
+
+Elements: 48400
+Accesses: 48180
+Misses: 24069
+Missed-bytes: 1540416
+
+
+Elements: 48400
+Accesses: 48180
+Misses: 3160
+Missed-bytes: 202240
+
+
+Elements: 48400
+Accesses: 48180
+Misses: 3025
+Missed-bytes: 193600
+
+
+Elements: 48400
+Accesses: 48180
+Misses: 379
+Missed-bytes: 194048
+
+
+Elements: 48400
+Accesses: 48180
+Misses: 48
+Missed-bytes: 196608
+
+
+Elements: 56644
+Accesses: 56406
+Misses: 6711
+Missed-bytes: 429504
+
+
+Elements: 56644
+Accesses: 56406
+Misses: 4063
+Missed-bytes: 260032
+
+
+Elements: 56644
+Accesses: 56406
+Misses: 3541
+Missed-bytes: 226624
+
+
+Elements: 56644
+Accesses: 56406
+Misses: 443
+Missed-bytes: 226816
+
+
+Elements: 56644
+Accesses: 56406
+Misses: 56
+Missed-bytes: 229376
+
+
+Elements: 56644
+Accesses: 56406
+Misses: 28499
+Missed-bytes: 1823936
+
+
+Elements: 56644
+Accesses: 56406
+Misses: 3717
+Missed-bytes: 237888
+
+
+Elements: 56644
+Accesses: 56406
+Misses: 3541
+Missed-bytes: 226624
+
+
+Elements: 56644
+Accesses: 56406
+Misses: 443
+Missed-bytes: 226816
+
+
+Elements: 56644
+Accesses: 56406
+Misses: 56
+Missed-bytes: 229376
+
+
+Elements: 65536
+Accesses: 65280
+Misses: 4096
+Missed-bytes: 262144
+
+
+Elements: 65536
+Accesses: 65280
+Misses: 4096
+Missed-bytes: 262144
+
+
+Elements: 65536
+Accesses: 65280
+Misses: 4096
+Missed-bytes: 262144
+
+
+Elements: 65536
+Accesses: 65280
+Misses: 512
+Missed-bytes: 262144
+
+
+Elements: 65536
+Accesses: 65280
+Misses: 64
+Missed-bytes: 262144
+
+
+Elements: 65536
+Accesses: 65280
+Misses: 33066
+Missed-bytes: 2116224
+
+
+Elements: 65536
+Accesses: 65280
+Misses: 4096
+Missed-bytes: 262144
+
+
+Elements: 65536
+Accesses: 65280
+Misses: 4096
+Missed-bytes: 262144
+
+
+Elements: 65536
+Accesses: 65280
+Misses: 512
+Missed-bytes: 262144
+
+
+Elements: 65536
+Accesses: 65280
+Misses: 64
+Missed-bytes: 262144
+
+
+Elements: 76729
+Accesses: 76452
+Misses: 8898
+Missed-bytes: 569472
+
+
+Elements: 76729
+Accesses: 76452
+Misses: 5569
+Missed-bytes: 356416
+
+
+Elements: 76729
+Accesses: 76452
+Misses: 4865
+Missed-bytes: 311360
+
+
+Elements: 76729
+Accesses: 76452
+Misses: 852
+Missed-bytes: 436224
+
+
+Elements: 76729
+Accesses: 76452
+Misses: 137
+Missed-bytes: 561152
+
+
+Elements: 76729
+Accesses: 76452
+Misses: 39187
+Missed-bytes: 2507968
+
+
+Elements: 76729
+Accesses: 76452
+Misses: 5026
+Missed-bytes: 321664
+
+
+Elements: 76729
+Accesses: 76452
+Misses: 4888
+Missed-bytes: 312832
+
+
+Elements: 76729
+Accesses: 76452
+Misses: 637
+Missed-bytes: 326144
+
+
+Elements: 76729
+Accesses: 76452
+Misses: 2870
+Missed-bytes: 11755520
+
+
+Elements: 89401
+Accesses: 89102
+Misses: 10445
+Missed-bytes: 668480
+
+
+Elements: 89401
+Accesses: 89102
+Misses: 6496
+Missed-bytes: 415744
+
+
+Elements: 89401
+Accesses: 89102
+Misses: 5761
+Missed-bytes: 368704
+
+
+Elements: 89401
+Accesses: 89102
+Misses: 1044
+Missed-bytes: 534528
+
+
+Elements: 89401
+Accesses: 89102
+Misses: 210
+Missed-bytes: 860160
+
+
+Elements: 89401
+Accesses: 89102
+Misses: 45923
+Missed-bytes: 2939072
+
+
+Elements: 89401
+Accesses: 89102
+Misses: 5840
+Missed-bytes: 373760
+
+
+Elements: 89401
+Accesses: 89102
+Misses: 5729
+Missed-bytes: 366656
+
+
+Elements: 89401
+Accesses: 89102
+Misses: 795
+Missed-bytes: 407040
+
+
+Elements: 89401
+Accesses: 89102
+Misses: 6271
+Missed-bytes: 25686016
+
+
+Elements: 104329
+Accesses: 104006
+Misses: 12316
+Missed-bytes: 788224
+
+
+Elements: 104329
+Accesses: 104006
+Misses: 7522
+Missed-bytes: 481408
+
+
+Elements: 104329
+Accesses: 104006
+Misses: 6767
+Missed-bytes: 433088
+
+
+Elements: 104329
+Accesses: 104006
+Misses: 1368
+Missed-bytes: 700416
+
+
+Elements: 104329
+Accesses: 104006
+Misses: 251
+Missed-bytes: 1028096
+
+
+Elements: 104329
+Accesses: 104006
+Misses: 53886
+Missed-bytes: 3448704
+
+
+Elements: 104329
+Accesses: 104006
+Misses: 6799
+Missed-bytes: 435136
+
+
+Elements: 104329
+Accesses: 104006
+Misses: 6703
+Missed-bytes: 428992
+
+
+Elements: 104329
+Accesses: 104006
+Misses: 974
+Missed-bytes: 498688
+
+
+Elements: 104329
+Accesses: 104006
+Misses: 10007
+Missed-bytes: 40988672
+
+
+Elements: 121801
+Accesses: 121452
+Misses: 14745
+Missed-bytes: 943680
+
+
+Elements: 121801
+Accesses: 121452
+Misses: 8740
+Missed-bytes: 559360
+
+
+Elements: 121801
+Accesses: 121452
+Misses: 7946
+Missed-bytes: 508544
+
+
+Elements: 121801
+Accesses: 121452
+Misses: 1683
+Missed-bytes: 861696
+
+
+Elements: 121801
+Accesses: 121452
+Misses: 304
+Missed-bytes: 1245184
+
+
+Elements: 121801
+Accesses: 121452
+Misses: 63167
+Missed-bytes: 4042688
+
+
+Elements: 121801
+Accesses: 121452
+Misses: 7917
+Missed-bytes: 506688
+
+
+Elements: 121801
+Accesses: 121452
+Misses: 7834
+Missed-bytes: 501376
+
+
+Elements: 121801
+Accesses: 121452
+Misses: 1165
+Missed-bytes: 596480
+
+
+Elements: 121801
+Accesses: 121452
+Misses: 14765
+Missed-bytes: 60477440
+
+
+Elements: 142129
+Accesses: 141752
+Misses: 18172
+Missed-bytes: 1163008
+
+
+Elements: 142129
+Accesses: 141752
+Misses: 10280
+Missed-bytes: 657920
+
+
+Elements: 142129
+Accesses: 141752
+Misses: 9368
+Missed-bytes: 599552
+
+
+Elements: 142129
+Accesses: 141752
+Misses: 2037
+Missed-bytes: 1042944
+
+
+Elements: 142129
+Accesses: 141752
+Misses: 537
+Missed-bytes: 2199552
+
+
+Elements: 142129
+Accesses: 141752
+Misses: 73976
+Missed-bytes: 4734464
+
+
+Elements: 142129
+Accesses: 141752
+Misses: 9214
+Missed-bytes: 589696
+
+
+Elements: 142129
+Accesses: 141752
+Misses: 9140
+Missed-bytes: 584960
+
+
+Elements: 142129
+Accesses: 141752
+Misses: 1372
+Missed-bytes: 702464
+
+
+Elements: 142129
+Accesses: 141752
+Misses: 20674
+Missed-bytes: 84680704
+
+
+Elements: 165649
+Accesses: 165242
+Misses: 20703
+Missed-bytes: 1324992
+
+
+Elements: 165649
+Accesses: 165242
+Misses: 12132
+Missed-bytes: 776448
+
+
+Elements: 165649
+Accesses: 165242
+Misses: 10947
+Missed-bytes: 700608
+
+
+Elements: 165649
+Accesses: 165242
+Misses: 2302
+Missed-bytes: 1178624
+
+
+Elements: 165649
+Accesses: 165242
+Misses: 867
+Missed-bytes: 3551232
+
+
+Elements: 165649
+Accesses: 165242
+Misses: 86412
+Missed-bytes: 5530368
+
+
+Elements: 165649
+Accesses: 165242
+Misses: 10715
+Missed-bytes: 685760
+
+
+Elements: 165649
+Accesses: 165242
+Misses: 10648
+Missed-bytes: 681472
+
+
+Elements: 165649
+Accesses: 165242
+Misses: 1598
+Missed-bytes: 818176
+
+
+Elements: 165649
+Accesses: 165242
+Misses: 27845
+Missed-bytes: 114053120
+
+
+Elements: 192721
+Accesses: 192282
+Misses: 23252
+Missed-bytes: 1488128
+
+
+Elements: 192721
+Accesses: 192282
+Misses: 14164
+Missed-bytes: 906496
+
+
+Elements: 192721
+Accesses: 192282
+Misses: 12831
+Missed-bytes: 821184
+
+
+Elements: 192721
+Accesses: 192282
+Misses: 2635
+Missed-bytes: 1349120
+
+
+Elements: 192721
+Accesses: 192282
+Misses: 1109
+Missed-bytes: 4542464
+
+
+Elements: 192721
+Accesses: 192282
+Misses: 100802
+Missed-bytes: 6451328
+
+
+Elements: 192721
+Accesses: 192282
+Misses: 12437
+Missed-bytes: 795968
+
+
+Elements: 192721
+Accesses: 192282
+Misses: 12377
+Missed-bytes: 792128
+
+
+Elements: 192721
+Accesses: 192282
+Misses: 1850
+Missed-bytes: 947200
+
+
+Elements: 192721
+Accesses: 192282
+Misses: 36637
+Missed-bytes: 150065152
+
+
+Elements: 225625
+Accesses: 225150
+Misses: 27081
+Missed-bytes: 1733184
+
+
+Elements: 225625
+Accesses: 225150
+Misses: 16602
+Missed-bytes: 1062528
+
+
+Elements: 225625
+Accesses: 225150
+Misses: 15020
+Missed-bytes: 961280
+
+
+Elements: 225625
+Accesses: 225150
+Misses: 3146
+Missed-bytes: 1610752
+
+
+Elements: 225625
+Accesses: 225150
+Misses: 1330
+Missed-bytes: 5447680
+
+
+Elements: 225625
+Accesses: 225150
+Misses: 118358
+Missed-bytes: 7574912
+
+
+Elements: 225625
+Accesses: 225150
+Misses: 14530
+Missed-bytes: 929920
+
+
+Elements: 225625
+Accesses: 225150
+Misses: 14478
+Missed-bytes: 926592
+
+
+Elements: 225625
+Accesses: 225150
+Misses: 2153
+Missed-bytes: 1102336
+
+
+Elements: 225625
+Accesses: 225150
+Misses: 48100
+Missed-bytes: 197017600
+
+
+Elements: 262144
+Accesses: 261632
+Misses: 16384
+Missed-bytes: 1048576
+
+
+Elements: 262144
+Accesses: 261632
+Misses: 16384
+Missed-bytes: 1048576
+
+
+Elements: 262144
+Accesses: 261632
+Misses: 16384
+Missed-bytes: 1048576
+
+
+Elements: 262144
+Accesses: 261632
+Misses: 2048
+Missed-bytes: 1048576
+
+
+Elements: 262144
+Accesses: 261632
+Misses: 1581
+Missed-bytes: 6475776
+
+
+Elements: 262144
+Accesses: 261632
+Misses: 137498
+Missed-bytes: 8799872
+
+
+Elements: 262144
+Accesses: 261632
+Misses: 16384
+Missed-bytes: 1048576
+
+
+Elements: 262144
+Accesses: 261632
+Misses: 16384
+Missed-bytes: 1048576
+
+
+Elements: 262144
+Accesses: 261632
+Misses: 3574
+Missed-bytes: 1829888
+
+
+Elements: 262144
+Accesses: 261632
+Misses: 61503
+Missed-bytes: 251916288
+
+
+Elements: 305809
+Accesses: 305256
+Misses: 35635
+Missed-bytes: 2280640
+
+
+Elements: 305809
+Accesses: 305256
+Misses: 22687
+Missed-bytes: 1451968
+
+
+Elements: 305809
+Accesses: 305256
+Misses: 20521
+Missed-bytes: 1313344
+
+
+Elements: 305809
+Accesses: 305256
+Misses: 4292
+Missed-bytes: 2197504
+
+
+Elements: 305809
+Accesses: 305256
+Misses: 3029
+Missed-bytes: 12406784
+
+
+Elements: 305809
+Accesses: 305256
+Misses: 161008
+Missed-bytes: 10304512
+
+
+Elements: 305809
+Accesses: 305256
+Misses: 19617
+Missed-bytes: 1255488
+
+
+Elements: 305809
+Accesses: 305256
+Misses: 19572
+Missed-bytes: 1252608
+
+
