@@ -12,15 +12,17 @@ namespace Runner
     class Program
     {
 
-        const bool OnlyOnce = false;
-        const bool ShowOutput = false;
-        const bool ShowTransposition = false;
-        const bool ToCache = true;
-        const int StartSize = 55; // 29 - matice 10x10
+        static bool OnlyOnce = false;
+        static bool ShowOutput = false;
+        static bool ShowTransposition = false;
+        static bool ToCache = true;
+        static int StartSize = 55; // 29 - matice 10x10
 
         static void Main(string[] args)
         {
-            var path = "../../../Debug";
+
+
+            var path = "../../../Release";
             var pars = new[] { "r", "n" }; // naive nebo recursive
             var cachePar = new[]
             {
@@ -46,7 +48,7 @@ namespace Runner
                             var time = new Stopwatch();
                             var x = ToCache
                                 ? $"\"{path}/CacheSim.exe\""
-                                : $"\"{path}/../Transposed/bin/Debug/Transposed.exe\"";
+                                : $"\"{path}/../Transposed/bin/Release/Transposed.exe\"";
 
                             using (var process1 = new Process
                             {

@@ -1,0 +1,6 @@
+C:\Users\jakub\documents\visual studio 2015\Projects\Transposition\Transposed\bin\Release\Transposed.exe.config
+C:\Users\jakub\documents\visual studio 2015\Projects\Transposition\Transposed\bin\Release\Transposed.exe
+C:\Users\jakub\documents\visual studio 2015\Projects\Transposition\Transposed\bin\Release\Transposed.pdb
+C:\Users\jakub\documents\visual studio 2015\Projects\Transposition\Transposed\obj\Release\Transposed.csprojResolveAssemblyReference.cache
+C:\Users\jakub\documents\visual studio 2015\Projects\Transposition\Transposed\obj\Release\Transposed.exe
+C:\Users\jakub\documents\visual studio 2015\Projects\Transposition\Transposed\obj\Release\Transposed.pdb
